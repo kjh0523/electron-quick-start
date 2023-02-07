@@ -32,9 +32,10 @@ Note: If you're using Linux Bash for Windows, [see this guide](https://www.howto
 
 ## Electron을 공부하는데 필요한 자료들
 
-- [electronjs.org/docs](https://electronjs.org/docs) - all of Electron's documentation
-- [Electron Fiddle](https://electronjs.org/fiddle) - Electron Fiddle, an app to test small Electron experiments
+- [electronjs.org/docs](https://electronjs.org/docs) - Electron 문서화의 모든 것
+- [Electron Fiddle](https://electronjs.org/fiddle) - 작은 애플리케이션들을 실행해 볼 수 있는 Electron Fiddle
 
-## License
+
+## 라이센스
 
 [CC0 1.0 (Public Domain)](LICENSE.md)
