@@ -28,7 +28,7 @@ npm install
 npm start
 ```
 
-Note: If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
+Note: 만약 윈도우즈에서 리눅스 Bash를 사용하기를 원한다면 , [이가이드를 보거나](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) 도는 커맨드프롬프트에서 npm을 사용하십시오.
 
 ## Electron을 공부하는데 필요한 자료들
 
