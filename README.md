@@ -1,6 +1,6 @@
 # Electron 빠른시작
 
-**Electron이 어떻게 실행되는지 빠르게 확인하려면 복제하고 실행 하십시오.
+**Electron이 어떻게 실행되는지 빠르게 확인하려면 복제하고 실행 하십시오.**
 
 This is a minimal Electron application based on the [Quick Start Guide](https://electronjs.org/docs/latest/tutorial/quick-start) within the Electron documentation.
 
