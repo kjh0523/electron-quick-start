@@ -2,16 +2,16 @@
 
 **Electron이 어떻게 실행되는지 빠르게 확인하려면 복제하고 실행 하십시오.**
 
-This is a minimal Electron application based on the [Quick Start Guide](https://electronjs.org/docs/latest/tutorial/quick-start) within the Electron documentation.
+이것 Electron 문서화에 포함된, 작은 [빠른 시작 가이드](https://electronjs.org/docs/latest/tutorial/quick-start)에 기반  Electron 작은 애플리케이션이다. 
 
-A basic Electron application needs just these files:
+Electron 기본 어플리케이션은 아래 파일들을 필요로 한다.:
 
 - `package.json` - Points to the app's main file and lists its details and dependencies.
 - `main.js` - Starts the app and creates a browser window to render HTML. This is the app's **main process**.
 - `index.html` - A web page to render. This is the app's **renderer process**.
 - `preload.js` - A content script that runs before the renderer process loads.
 
-You can learn more about each of these components in depth within the [Tutorial](https://electronjs.org/docs/latest/tutorial/tutorial-prerequisites).
+각 컴포넌트에 대해서 좀 더 깊이 있게 살펴보려면 [Tutorial](https://electronjs.org/docs/latest/tutorial/tutorial-prerequisites) 을 참조 하십시오.
 
 ## 사용하기
 
