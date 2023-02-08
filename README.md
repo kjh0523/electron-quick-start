@@ -7,9 +7,9 @@
 Electron 기본 어플리케이션은 아래 파일들을 필요로 한다.:
 
 - `package.json` - Points to the app's main file and lists its details and dependencies.
-- `main.js` - Starts the app and creates a browser window to render HTML. This is the app's **main process**.
-- `index.html` - A web page to render. This is the app's **renderer process**.
-- `preload.js` - A content script that runs before the renderer process loads.
+- `main.js` - HTML파일을 표현하기 위해서 앱을 시작하고, 브라우저를 만든다. 이것은 앱의 **main 프로세스**이다.
+- `index.html` - 웹페이지를 표현하기 위한 프로그램 이것은 프로그램의 **renderer 프로세스**이다.
+- `preload.js` - **renderer 프로세스**가 로드 되기 전에 실행되는 콘텐츠 스크립트.
 
 각 컴포넌트에 대해서 좀 더 깊이 있게 살펴보려면 [Tutorial](https://electronjs.org/docs/latest/tutorial/tutorial-prerequisites) 을 참조 하십시오.
 
