@@ -6,7 +6,7 @@
 
 Electron 기본 어플리케이션은 아래 파일들을 필요로 한다.:
 
-- `package.json` - Points to the app's main file and lists its details and dependencies.
+- `package.json` - 앱의 main 파일을 설정하고 상세한내용을 정의하고, 의존성 패키지들을 설정한다.
 - `main.js` - HTML파일을 표현하기 위해서 앱을 시작하고, 브라우저를 만든다. 이것은 앱의 **main 프로세스**이다.
 - `index.html` - 웹페이지를 표현하기 위한 프로그램 이것은 프로그램의 **renderer 프로세스**이다.
 - `preload.js` - **renderer 프로세스**가 로드 되기 전에 실행되는 콘텐츠 스크립트.
@@ -15,7 +15,7 @@ Electron 기본 어플리케이션은 아래 파일들을 필요로 한다.:
 
 ## 사용하기
 
-To clone and run this repository you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+이 레파지토리를 복제하고 실행하기 위해서 [Git](https://git-scm.com)과 [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com))가 컴퓨터에 설치 되어 있어야 한다. 실행하기 위한 커맨드는 아래와 같다.:
 
 ```bash
 # 이 레포지토리를 복제 하십시오
