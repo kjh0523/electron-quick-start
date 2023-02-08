@@ -15,7 +15,7 @@ Electron 기본 어플리케이션은 아래 파일들을 필요로 한다.:
 
 ## 사용하기
 
-이 레파지토리를 복제하고 실행하기 위해서 [Git](https://git-scm.com)과 [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com))가 컴퓨터에 설치 되어 있어야 한다. 실행하기 위한 커맨드는 아래와 같다.:
+이 레파지토리를 복제하고 실행하기 위해서 [Git](https://git-scm.com)과 [Node.js](https://nodejs.org/en/download/) ([npm](http://npmjs.com)과 함께)가 컴퓨터에 설치 되어 있어야 한다. 실행하기 위한 커맨드는 아래와 같다.:
 
 ```bash
 # 이 레포지토리를 복제 하십시오
